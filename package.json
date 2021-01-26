@@ -1,0 +1,25 @@
+{
+  "name": "manuels.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd web && npm run dev",
+    "build": "cd web && npm run build",
+    "start": "cd web && npm start",
+    "studio": "cd studio && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelsavino/manuels.dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelsavino/manuels.dev/issues"
+  },
+  "homepage": "https://github.com/manuelsavino/manuels.dev#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
