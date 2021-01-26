@@ -16,7 +16,7 @@ export default function Layout({ children }) {
   return (
     <div className=''>
       <Head>
-        <title>manuels.dev</title>
+        <title>rafaelsavino.com</title>
       </Head>
       <Nav />
       <main className='dark:bg-gray-800'>{children}</main>

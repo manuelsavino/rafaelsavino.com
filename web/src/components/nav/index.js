@@ -60,11 +60,11 @@ export default function Nav() {
             <a>Home</a>
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link href='/work'>
             <a>Work</a>
           </Link>
-        </li>
+        </li> */}
 
         <li>
           <Link href='/contact'>
