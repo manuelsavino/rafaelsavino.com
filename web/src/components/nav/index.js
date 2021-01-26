@@ -31,7 +31,7 @@ export default function Nav() {
         <div className='flex items-center space-x-3'>
           <h5 className='text-3xl font-extrabold text-black dark:text-white'>
             <Link href='/'>
-              <a>manuels.dev</a>
+              <a>Rafael Savino</a>
             </Link>
           </h5>
         </div>
@@ -65,11 +65,7 @@ export default function Nav() {
             <a>Work</a>
           </Link>
         </li>
-        <li>
-          <Link href='/uses'>
-            <a>Uses</a>
-          </Link>
-        </li>
+
         <li>
           <Link href='/contact'>
             <a>Contact</a>

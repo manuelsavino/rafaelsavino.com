@@ -10,11 +10,11 @@ const Index = () => {
         <h2 className='text-6xl md:text-7xl text-gray-800 font-extrabold font-sans text-center pb-6'>
           Howdy,
           <br />
-          My Name is Manuel
+          My Name is Rafael
         </h2>
         <h4 className='text-2xl text-gray-500 font-sans text-center pb-1'></h4>
         <h3 className='text-2xl text-gray-500 font-sans text-center px-20 pb-0 md:pb-36'>
-          I'm a front-end web developer from Miami, FL 🌴
+          I'm a Marketing Nerd / Dance Studio Ownwer / Dad from Miami, FL 🌴
         </h3>
       </div>
     </Layout>
