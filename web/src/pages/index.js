@@ -1,4 +1,5 @@
 import Layout from '../components/layout';
+import Link from 'next/link';
 
 const Index = () => {
   return (
@@ -13,9 +14,15 @@ const Index = () => {
           My Name is Rafael
         </h2>
         <h4 className='text-2xl text-gray-500 font-sans text-center pb-1'></h4>
-        <h3 className='text-2xl text-gray-500 font-sans text-center px-20 pb-0 md:pb-36'>
+        <h3 className='text-2xl text-gray-500 font-sans text-center px-20 pb-0 md:pb-10'>
           I'm a Marketing Nerd / Dance Studio Owner / Dad from Miami, FL 🌴
         </h3>
+
+        <Link href='/slides'>
+          <a className='bg-blue-500 text-white py-3 px-4 rounded'>
+            Get The Slides
+          </a>
+        </Link>
       </div>
     </Layout>
   );
