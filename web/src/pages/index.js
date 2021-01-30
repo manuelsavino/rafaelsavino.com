@@ -15,7 +15,7 @@ const Index = () => {
         </h2>
         <h4 className='text-2xl text-gray-500 font-sans text-center pb-1'></h4>
         <h3 className='text-2xl text-gray-500 font-sans text-center px-20 pb-0 md:pb-10'>
-          I'm a Dad / Marketing Nerd / Dance Studio Owner from Miami, FL 🌴
+          I'm a Dad / Dance Studio Owner / Marketing Nerd from Miami, FL 🌴
         </h3>
 
         <Link href='/slides'>
